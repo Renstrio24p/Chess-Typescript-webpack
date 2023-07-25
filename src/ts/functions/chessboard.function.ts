@@ -1,5 +1,5 @@
 export default function Chess_function(){
-    let boardSquaresArray: any[] = [];
+let boardSquaresArray: any[] = [];
 let moves: any[]=[];
 const castlingSquares: string[]=["g1","g8","c1","c8"];
 let isWhiteTurn: boolean = true;
